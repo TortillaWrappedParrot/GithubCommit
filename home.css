@@ -1,0 +1,19 @@
+.lotus{
+    float: left;
+}
+
+p1{
+    font-size: 25px;
+    vertical-align: baseline;
+}
+
+header{
+    background-color: gray;
+    padding: 10px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: aquamarine;
+}
